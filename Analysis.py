@@ -32,7 +32,7 @@ def main():
     ]
     
     colsInterest = df[columns]
-    print(colsInterest.head())
+    colsInterest.to_csv('rStudioInput.csv', index=False)
 
 
 if __name__ == "__main__":
