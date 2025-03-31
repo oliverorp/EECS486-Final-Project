@@ -437,26 +437,26 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 26,Other,Japan,24648,False,False,Rural,YouTube,276,19,41,12,Morning,8,2,Boredom,10,0,At home,High
 29,Female,Brazil,53623,True,True,Urban,TikTok,202,4,23,88,Night,3,7,Boredom,5,5,At school,Low
 18,Female,Pakistan,79156,True,False,Urban,TikTok,227,6,45,62,Afternoon,6,4,Entertainment,8,2,At school,Medium
-18,Male,Japan,55634,True,True,Rural,YouTube,124,17,18,73,Evening,7,3,Habit,9,1,At work,High
+18,Male,Japan,55634,True,True,Rural,YouTube,124,17,18,73,Evening,7,3,Habit,9,1,At work,Medium
 64,Male,Brazil,64602,True,False,Rural,YouTube,77,5,49,77,Night,2,8,Entertainment,4,6,At school,Low
 51,Female,Vietnam,69334,True,True,Urban,Facebook,84,7,25,40,Night,2,8,Entertainment,4,6,At work,Low
-49,Male,India,88648,True,False,Rural,TikTok,112,9,1,54,Evening,7,3,Boredom,9,1,At school,High
+49,Male,India,88648,True,False,Rural,TikTok,112,9,1,54,Evening,7,3,Boredom,9,1,At school,Medium
 42,Male,Vietnam,42054,False,True,Rural,Facebook,187,1,15,81,Morning,9,1,Habit,10,0,At work,High
-57,Male,Mexico,90028,True,False,Rural,Facebook,224,1,34,7,Evening,7,3,Boredom,9,1,At school,High
-62,Male,United States,42207,False,True,Rural,YouTube,48,19,48,17,Evening,7,3,Boredom,9,1,At school,High
+57,Male,Mexico,90028,True,False,Rural,Facebook,224,1,34,7,Evening,7,3,Boredom,9,1,At school,Medium
+62,Male,United States,42207,False,True,Rural,YouTube,48,19,48,17,Evening,7,3,Boredom,9,1,At school,Medium
 18,Male,India,41386,False,True,Rural,Instagram,268,6,20,50,Night,2,8,Entertainment,4,6,At work,Low
 33,Female,Philippines,79518,True,True,Rural,Facebook,213,18,37,24,Morning,9,1,Entertainment,10,0,At home,High
-56,Male,Brazil,72781,True,True,Rural,Instagram,16,10,27,2,Evening,7,3,Boredom,9,1,Commuting,High
+56,Male,Brazil,72781,True,True,Rural,Instagram,16,10,27,2,Evening,7,3,Boredom,9,1,Commuting,Medium
 22,Male,Vietnam,72780,True,False,Urban,TikTok,58,11,22,99,Night,2,8,Boredom,4,6,At school,Low
-39,Female,India,81440,True,True,Urban,YouTube,35,1,5,92,Evening,7,3,Boredom,9,1,At home,High
+39,Female,India,81440,True,True,Urban,YouTube,35,1,5,92,Evening,7,3,Boredom,9,1,At home,Medium
 46,Other,Mexico,64199,True,False,Urban,TikTok,170,1,34,83,Afternoon,6,4,Habit,8,2,At school,Medium
-20,Male,Indonesia,81035,True,True,Rural,TikTok,185,13,39,33,Evening,7,3,Boredom,9,1,At work,High
-29,Male,United States,28210,False,False,Urban,YouTube,88,5,3,21,Evening,7,3,Entertainment,9,1,At work,High
-43,Male,United States,64363,True,True,Rural,TikTok,11,1,17,74,Evening,7,3,Boredom,9,1,At home,High
+20,Male,Indonesia,81035,True,True,Rural,TikTok,185,13,39,33,Evening,7,3,Boredom,9,1,At work,Medium
+29,Male,United States,28210,False,False,Urban,YouTube,88,5,3,21,Evening,7,3,Entertainment,9,1,At work,Medium
+43,Male,United States,64363,True,True,Rural,TikTok,11,1,17,74,Evening,7,3,Boredom,9,1,At home,Medium
 33,Male,Mexico,98279,True,False,Rural,YouTube,141,3,24,53,Night,2,8,Entertainment,4,6,At home,Low
 54,Other,Mexico,80348,True,True,Rural,Instagram,285,18,24,46,Afternoon,6,4,Entertainment,8,2,Commuting,Medium
-39,Other,Vietnam,75284,True,False,Urban,TikTok,126,9,3,45,Evening,7,3,Boredom,9,1,At school,High
-46,Male,India,92124,True,True,Rural,YouTube,173,14,45,9,Evening,7,3,Entertainment,9,1,At home,High
+39,Other,Vietnam,75284,True,False,Urban,TikTok,126,9,3,45,Evening,7,3,Boredom,9,1,At school,Medium
+46,Male,India,92124,True,True,Rural,YouTube,173,14,45,9,Evening,7,3,Entertainment,9,1,At home,Medium
 31,Female,Japan,88847,True,False,Rural,Facebook,297,17,7,6,Afternoon,6,4,Boredom,8,2,At work,Medium
 45,Male,United States,42432,False,True,Rural,TikTok,37,14,25,51,Afternoon,6,4,Habit,8,2,At work,Medium
 22,Female,United States,84089,True,False,Rural,Instagram,10,4,3,35,Afternoon,6,4,Procrastination,8,2,At home,Medium
@@ -464,9 +464,9 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 47,Female,Indonesia,23321,False,False,Rural,TikTok,65,17,29,53,Morning,9,1,Procrastination,10,0,At home,High
 63,Male,India,57383,True,True,Rural,TikTok,44,2,29,19,Afternoon,6,4,Entertainment,8,2,At work,Medium
 22,Male,Mexico,98682,True,False,Urban,TikTok,121,5,10,69,Night,2,8,Habit,4,6,At work,Low
-29,Female,Brazil,99190,True,True,Rural,Instagram,295,4,32,25,Evening,7,3,Habit,9,1,At home,High
+29,Female,Brazil,99190,True,True,Rural,Instagram,295,4,32,25,Evening,7,3,Habit,9,1,At home,Medium
 33,Female,India,72893,True,True,Rural,YouTube,45,4,23,11,Afternoon,6,4,Entertainment,8,2,Commuting,Medium
-43,Male,United States,55820,True,True,Rural,Facebook,226,6,39,74,Evening,7,3,Procrastination,9,1,At school,High
+43,Male,United States,55820,True,True,Rural,Facebook,226,6,39,74,Evening,7,3,Procrastination,9,1,At school,Medium
 43,Female,Vietnam,86262,True,True,Rural,Facebook,89,13,9,17,Morning,9,1,Boredom,10,0,At work,High
 38,Male,Indonesia,23760,False,False,Rural,Facebook,92,5,37,36,Night,2,8,Entertainment,4,6,At school,Low
 56,Other,United States,42190,False,True,Urban,YouTube,74,7,40,90,Morning,9,1,Habit,10,0,At home,High
@@ -477,20 +477,20 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 40,Male,Brazil,58211,True,False,Rural,Instagram,118,14,14,60,Night,2,8,Entertainment,4,6,At home,Low
 27,Female,India,23744,False,True,Rural,TikTok,190,16,44,18,Morning,9,1,Habit,10,0,At school,High
 22,Male,Philippines,44995,False,False,Urban,Facebook,173,14,34,1,Afternoon,6,4,Procrastination,8,2,At home,Medium
-53,Male,India,36977,False,True,Urban,Instagram,77,16,13,14,Evening,7,3,Entertainment,9,1,At home,High
-51,Female,Japan,54542,True,False,Urban,YouTube,189,8,31,8,Evening,7,3,Entertainment,9,1,Commuting,High
+53,Male,India,36977,False,True,Urban,Instagram,77,16,13,14,Evening,7,3,Entertainment,9,1,At home,Medium
+51,Female,Japan,54542,True,False,Urban,YouTube,189,8,31,8,Evening,7,3,Entertainment,9,1,Commuting,Medium
 48,Other,United States,30651,False,True,Rural,Instagram,190,3,33,66,Night,2,8,Entertainment,4,6,At home,Low
 27,Female,India,98931,True,False,Rural,TikTok,178,19,39,51,Morning,9,1,Procrastination,10,0,Commuting,High
 36,Male,Germany,36715,False,True,Urban,YouTube,31,1,28,79,Night,2,8,Boredom,4,6,At home,Low
 49,Female,Japan,64409,True,False,Rural,Instagram,75,2,25,60,Afternoon,6,4,Habit,8,2,At home,Medium
-18,Male,Japan,44306,False,True,Rural,Instagram,30,15,32,34,Evening,7,3,Habit,9,1,At home,High
-22,Female,India,39086,False,False,Rural,Instagram,109,10,9,36,Evening,7,3,Boredom,9,1,At home,High
+18,Male,Japan,44306,False,True,Rural,Instagram,30,15,32,34,Evening,7,3,Habit,9,1,At home,Medium
+22,Female,India,39086,False,False,Rural,Instagram,109,10,9,36,Evening,7,3,Boredom,9,1,At home,Medium
 62,Male,Germany,34376,False,True,Urban,Instagram,112,18,28,62,Night,2,8,Entertainment,4,6,At work,Low
 21,Other,India,81350,True,True,Rural,YouTube,56,14,31,1,Afternoon,6,4,Boredom,8,2,At work,Medium
-33,Male,United States,91425,True,True,Urban,TikTok,48,17,17,85,Evening,7,3,Boredom,9,1,At home,High
-41,Female,Brazil,56636,True,True,Rural,Instagram,294,13,23,42,Evening,7,3,Entertainment,9,1,Commuting,High
-33,Female,Pakistan,71649,True,False,Urban,YouTube,99,1,13,1,Evening,7,3,Entertainment,9,1,At home,High
-19,Male,United States,54610,True,True,Rural,TikTok,94,5,10,96,Evening,7,3,Habit,9,1,At work,High
+33,Male,United States,91425,True,True,Urban,TikTok,48,17,17,85,Evening,7,3,Boredom,9,1,At home,Medium
+41,Female,Brazil,56636,True,True,Rural,Instagram,294,13,23,42,Evening,7,3,Entertainment,9,1,Commuting,Medium
+33,Female,Pakistan,71649,True,False,Urban,YouTube,99,1,13,1,Evening,7,3,Entertainment,9,1,At home,Medium
+19,Male,United States,54610,True,True,Rural,TikTok,94,5,10,96,Evening,7,3,Habit,9,1,At work,Medium
 45,Female,India,30058,False,False,Rural,Instagram,282,13,16,84,Night,2,8,Boredom,4,6,At home,Low
 49,Male,Brazil,94637,True,True,Rural,TikTok,197,14,6,54,Night,2,8,Habit,4,6,At home,Low
 44,Male,Indonesia,98033,True,False,Rural,TikTok,168,3,48,47,Afternoon,6,4,Procrastination,8,2,At school,Medium
@@ -501,12 +501,12 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 50,Female,Vietnam,37154,False,True,Rural,TikTok,11,16,15,50,Morning,9,1,Boredom,10,0,At home,High
 50,Male,United States,39539,False,False,Urban,TikTok,253,14,13,45,Night,2,8,Habit,4,6,At home,Low
 60,Other,United States,80058,True,True,Rural,Facebook,185,12,42,74,Morning,9,1,Entertainment,10,0,At home,High
-54,Male,Pakistan,82068,True,False,Urban,Instagram,247,12,45,72,Evening,7,3,Entertainment,9,1,At home,High
+54,Male,Pakistan,82068,True,False,Urban,Instagram,247,12,45,72,Evening,7,3,Entertainment,9,1,At home,Medium
 29,Male,Vietnam,97313,True,True,Rural,Instagram,68,11,17,91,Morning,9,1,Boredom,10,0,At home,High
 20,Female,India,50373,True,False,Urban,Facebook,108,17,7,10,Afternoon,6,4,Boredom,8,2,Commuting,Medium
 18,Male,Pakistan,53154,True,True,Rural,Facebook,11,8,28,14,Afternoon,6,4,Entertainment,8,2,At school,Medium
-50,Male,Indonesia,26031,False,False,Rural,YouTube,252,17,38,46,Evening,7,3,Entertainment,9,1,At work,High
-57,Female,India,91975,True,True,Rural,YouTube,220,11,13,75,Evening,7,3,Habit,9,1,At home,High
+50,Male,Indonesia,26031,False,False,Rural,YouTube,252,17,38,46,Evening,7,3,Entertainment,9,1,At work,Medium
+57,Female,India,91975,True,True,Rural,YouTube,220,11,13,75,Evening,7,3,Habit,9,1,At home,Medium
 27,Female,Philippines,42785,False,True,Rural,TikTok,132,2,17,6,Afternoon,6,4,Entertainment,8,2,At work,Medium
 60,Other,India,98928,True,True,Rural,TikTok,238,10,15,21,Night,2,8,Procrastination,4,6,At work,Low
 61,Female,Mexico,48669,False,True,Rural,TikTok,91,10,36,62,Night,2,8,Habit,4,6,Commuting,Low
@@ -514,56 +514,56 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 30,Female,Indonesia,54624,True,True,Rural,YouTube,149,6,15,19,Morning,9,1,Entertainment,10,0,At work,High
 29,Female,India,68438,True,False,Urban,Instagram,38,4,46,88,Night,2,8,Entertainment,4,6,At home,Low
 48,Other,Brazil,87534,True,True,Rural,TikTok,279,12,11,82,Afternoon,6,4,Boredom,8,2,At work,Medium
-63,Male,United States,51705,True,False,Rural,Instagram,256,11,31,99,Evening,7,3,Procrastination,9,1,At home,High
+63,Male,United States,51705,True,False,Rural,Instagram,256,11,31,99,Evening,7,3,Procrastination,9,1,At home,Medium
 19,Male,Japan,58244,True,True,Urban,TikTok,21,13,4,62,Afternoon,6,4,Habit,8,2,At school,Medium
 52,Male,United States,94964,True,False,Urban,Facebook,115,5,35,83,Morning,9,1,Entertainment,10,0,At work,High
 40,Female,India,57437,True,True,Rural,TikTok,41,6,34,53,Morning,9,1,Boredom,10,0,At home,High
 34,Male,India,97872,True,False,Urban,TikTok,83,1,27,24,Afternoon,6,4,Boredom,8,2,At work,Medium
 43,Male,Germany,94878,True,True,Rural,TikTok,180,6,10,56,Night,2,8,Entertainment,4,6,At school,Low
-25,Other,India,92982,True,False,Rural,YouTube,78,18,30,62,Evening,7,3,Entertainment,9,1,At school,High
+25,Other,India,92982,True,False,Rural,YouTube,78,18,30,62,Evening,7,3,Entertainment,9,1,At school,Medium
 46,Female,India,70583,True,True,Urban,Facebook,146,9,45,34,Afternoon,6,4,Habit,8,2,At school,Medium
-43,Male,India,58392,True,False,Rural,TikTok,109,15,20,22,Evening,7,3,Entertainment,9,1,At school,High
+43,Male,India,58392,True,False,Rural,TikTok,109,15,20,22,Evening,7,3,Entertainment,9,1,At school,Medium
 27,Other,United States,27461,False,True,Urban,TikTok,155,8,29,68,Afternoon,6,4,Habit,8,2,At home,Medium
 43,Male,India,30516,False,False,Rural,Instagram,18,19,29,57,Morning,9,1,Boredom,10,0,At home,High
 51,Male,Pakistan,99285,True,True,Rural,Facebook,71,16,23,10,Afternoon,6,4,Procrastination,8,2,At work,Medium
-58,Other,Japan,37514,False,False,Rural,TikTok,194,6,21,66,Evening,7,3,Habit,9,1,At work,High
+58,Other,Japan,37514,False,False,Rural,TikTok,194,6,21,66,Evening,7,3,Habit,9,1,At work,Medium
 24,Male,India,56268,True,True,Urban,Instagram,38,6,48,8,Night,2,8,Habit,4,6,At school,Low
 21,Female,Japan,56788,True,True,Rural,Instagram,123,3,43,97,Night,2,8,Boredom,4,6,At work,Low
 62,Male,Philippines,95749,True,True,Rural,YouTube,152,10,10,38,Night,2,8,Procrastination,4,6,At school,Low
-28,Female,Indonesia,81049,True,True,Rural,Instagram,129,1,41,62,Evening,7,3,Procrastination,9,1,At home,High
+28,Female,Indonesia,81049,True,True,Rural,Instagram,129,1,41,62,Evening,7,3,Procrastination,9,1,At home,Medium
 46,Male,India,82493,True,False,Rural,TikTok,179,14,12,28,Night,2,8,Entertainment,4,6,At work,Low
 53,Female,United States,56027,True,True,Rural,YouTube,166,4,30,10,Night,2,8,Entertainment,4,6,At home,Low
 42,Other,India,62849,True,False,Rural,YouTube,269,12,33,45,Night,2,8,Habit,4,6,At home,Low
 38,Male,Indonesia,37858,False,True,Rural,TikTok,91,6,18,65,Night,2,8,Entertainment,4,6,At school,Low
-53,Female,Philippines,99003,True,False,Rural,Facebook,251,11,14,98,Evening,7,3,Procrastination,9,1,At school,High
+53,Female,Philippines,99003,True,False,Rural,Facebook,251,11,14,98,Evening,7,3,Procrastination,9,1,At school,Medium
 27,Male,United States,72395,True,True,Rural,Instagram,181,12,22,67,Night,2,8,Boredom,4,6,At home,Low
-54,Male,India,59758,True,False,Rural,YouTube,240,10,21,9,Evening,7,3,Boredom,9,1,At work,High
-26,Other,India,74312,True,True,Rural,Facebook,217,18,1,5,Evening,7,3,Boredom,9,1,At school,High
-41,Male,Japan,88670,True,False,Urban,TikTok,84,7,49,10,Evening,7,3,Habit,9,1,Commuting,High
+54,Male,India,59758,True,False,Rural,YouTube,240,10,21,9,Evening,7,3,Boredom,9,1,At work,Medium
+26,Other,India,74312,True,True,Rural,Facebook,217,18,1,5,Evening,7,3,Boredom,9,1,At school,Medium
+41,Male,Japan,88670,True,False,Urban,TikTok,84,7,49,10,Evening,7,3,Habit,9,1,Commuting,Medium
 52,Male,Indonesia,35434,False,True,Rural,Instagram,279,7,43,12,Night,2,8,Habit,4,6,At work,Low
 52,Male,Japan,84047,True,False,Urban,Instagram,123,11,15,82,Night,2,8,Boredom,4,6,At school,Low
 53,Other,Philippines,67775,True,True,Rural,YouTube,71,4,36,58,Night,2,8,Habit,4,6,At home,Low
 35,Other,United States,95769,True,False,Rural,Instagram,111,1,47,21,Afternoon,6,4,Habit,8,2,Commuting,Medium
 56,Female,India,86677,True,True,Rural,Instagram,219,13,22,21,Afternoon,6,4,Habit,8,2,At home,Medium
-49,Female,Mexico,65734,True,False,Urban,Instagram,264,18,32,65,Evening,7,3,Habit,9,1,At school,High
-41,Female,United States,60603,True,True,Rural,Instagram,29,9,46,3,Evening,7,3,Boredom,9,1,At school,High
-40,Other,India,96708,True,False,Rural,TikTok,67,9,33,69,Evening,7,3,Boredom,9,1,At school,High
+49,Female,Mexico,65734,True,False,Urban,Instagram,264,18,32,65,Evening,7,3,Habit,9,1,At school,Medium
+41,Female,United States,60603,True,True,Rural,Instagram,29,9,46,3,Evening,7,3,Boredom,9,1,At school,Medium
+40,Other,India,96708,True,False,Rural,TikTok,67,9,33,69,Evening,7,3,Boredom,9,1,At school,Medium
 49,Male,United States,88803,True,True,Urban,Facebook,121,9,41,89,Night,3,7,Habit,5,5,At home,Low
 54,Male,Japan,59332,True,True,Rural,TikTok,205,10,39,64,Night,3,7,Procrastination,5,5,At school,Low
 29,Male,United States,41312,False,True,Rural,TikTok,101,2,23,49,Afternoon,6,4,Boredom,8,2,At home,Medium
 30,Male,Philippines,64179,True,True,Rural,YouTube,61,6,43,72,Night,3,7,Entertainment,5,5,At home,Low
-40,Other,Vietnam,91442,True,False,Rural,Instagram,17,15,2,17,Evening,7,3,Procrastination,9,1,At home,High
+40,Other,Vietnam,91442,True,False,Rural,Instagram,17,15,2,17,Evening,7,3,Procrastination,9,1,At home,Medium
 42,Male,Vietnam,60379,True,True,Rural,TikTok,107,3,2,73,Afternoon,6,4,Boredom,8,2,At home,Medium
-52,Male,Vietnam,37297,False,False,Urban,Instagram,245,11,38,32,Evening,7,3,Habit,9,1,At work,High
-58,Male,Philippines,22011,False,True,Urban,TikTok,78,6,29,70,Evening,7,3,Entertainment,9,1,At work,High
-47,Female,United States,64014,True,False,Rural,TikTok,54,3,46,21,Evening,7,3,Habit,9,1,Commuting,High
-34,Female,India,31738,False,True,Urban,YouTube,146,11,3,7,Evening,7,3,Boredom,9,1,At school,High
+52,Male,Vietnam,37297,False,False,Urban,Instagram,245,11,38,32,Evening,7,3,Habit,9,1,At work,Medium
+58,Male,Philippines,22011,False,True,Urban,TikTok,78,6,29,70,Evening,7,3,Entertainment,9,1,At work,Medium
+47,Female,United States,64014,True,False,Rural,TikTok,54,3,46,21,Evening,7,3,Habit,9,1,Commuting,Medium
+34,Female,India,31738,False,True,Urban,YouTube,146,11,3,7,Evening,7,3,Boredom,9,1,At school,Medium
 37,Male,Philippines,67498,True,False,Urban,Facebook,243,15,39,7,Morning,9,1,Habit,10,0,At work,High
 42,Female,Vietnam,31120,False,True,Rural,Facebook,41,13,7,27,Night,3,7,Habit,5,5,At work,Low
 39,Male,Indonesia,28767,False,False,Rural,TikTok,298,10,36,8,Night,3,7,Habit,5,5,At home,Low
 30,Male,Philippines,42852,False,True,Rural,YouTube,135,6,29,73,Afternoon,6,4,Entertainment,8,2,Commuting,Medium
-36,Male,Germany,99239,True,False,Rural,Instagram,76,15,37,28,Evening,7,3,Procrastination,9,1,At work,High
-53,Male,India,20929,False,True,Rural,Instagram,39,18,49,79,Evening,7,3,Procrastination,9,1,At home,High
+36,Male,Germany,99239,True,False,Rural,Instagram,76,15,37,28,Evening,7,3,Procrastination,9,1,At work,Medium
+53,Male,India,20929,False,True,Rural,Instagram,39,18,49,79,Evening,7,3,Procrastination,9,1,At home,Medium
 29,Female,Vietnam,97487,True,False,Rural,TikTok,123,18,36,66,Night,3,7,Habit,5,5,At school,Low
 58,Other,Brazil,37438,False,True,Rural,Facebook,213,7,23,71,Evening,5,5,Habit,7,3,At home,Medium
 36,Other,India,68515,True,False,Rural,YouTube,38,15,45,47,Evening,5,5,Boredom,7,3,At school,Medium
@@ -581,10 +581,10 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 29,Male,Japan,46417,False,True,Rural,TikTok,172,11,17,13,Evening,5,5,Entertainment,7,3,At work,Medium
 42,Male,Brazil,38693,False,False,Rural,Instagram,139,1,44,16,Evening,5,5,Boredom,7,3,At home,Medium
 38,Male,India,99674,True,True,Rural,Facebook,255,2,10,80,Night,1,9,Procrastination,3,7,At school,Low
-53,Other,Japan,73161,True,False,Rural,Facebook,181,1,20,5,Morning,7,3,Boredom,9,1,At school,High
+53,Other,Japan,73161,True,False,Rural,Facebook,181,1,20,5,Morning,7,3,Boredom,9,1,At school,Medium
 40,Female,India,22169,False,True,Rural,TikTok,73,19,6,89,Night,1,9,Habit,3,7,At school,Low
 33,Male,United States,42052,False,False,Rural,YouTube,40,2,8,38,Evening,5,5,Habit,7,3,At home,Medium
-56,Female,Japan,91849,True,True,Rural,TikTok,56,4,45,50,Morning,7,3,Entertainment,9,1,At work,High
+56,Female,Japan,91849,True,True,Rural,TikTok,56,4,45,50,Morning,7,3,Entertainment,9,1,At work,Medium
 62,Male,Vietnam,93851,True,False,Urban,TikTok,139,12,34,38,Night,1,9,Habit,3,7,At work,Low
 59,Female,India,28036,False,True,Rural,TikTok,119,18,32,56,Evening,5,5,Entertainment,7,3,At work,Medium
 56,Male,Brazil,51778,True,False,Rural,TikTok,78,1,42,63,Evening,5,5,Habit,7,3,At work,Medium
@@ -599,19 +599,19 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 35,Male,Brazil,81516,True,False,Rural,Instagram,64,2,36,1,Night,1,9,Boredom,3,7,At work,Low
 64,Male,Vietnam,40538,False,True,Rural,YouTube,12,16,7,8,Afternoon,4,6,Boredom,6,4,At work,Medium
 29,Female,United States,83918,True,False,Rural,Facebook,35,6,10,4,Night,1,9,Entertainment,3,7,At school,Low
-26,Female,Philippines,34973,False,True,Rural,TikTok,135,14,47,85,Morning,7,3,Entertainment,9,1,At home,High
-27,Male,United States,91155,True,False,Rural,TikTok,62,1,12,86,Morning,7,3,Boredom,9,1,At home,High
+26,Female,Philippines,34973,False,True,Rural,TikTok,135,14,47,85,Morning,7,3,Entertainment,9,1,At home,Medium
+27,Male,United States,91155,True,False,Rural,TikTok,62,1,12,86,Morning,7,3,Boredom,9,1,At home,Medium
 61,Male,United States,79500,True,True,Urban,TikTok,207,17,1,53,Night,1,9,Habit,3,7,At home,Low
 34,Male,Vietnam,56575,True,False,Urban,Instagram,197,11,25,58,Evening,5,5,Procrastination,7,3,At school,Medium
 55,Female,Indonesia,62261,True,True,Rural,YouTube,195,19,16,37,Night,1,9,Entertainment,3,7,At work,Low
 24,Male,Brazil,47716,False,False,Rural,Facebook,213,3,5,49,Evening,5,5,Habit,7,3,At home,Medium
 63,Female,India,23236,False,True,Rural,YouTube,20,11,19,67,Evening,5,5,Entertainment,7,3,At home,Medium
-30,Female,United States,35848,False,False,Rural,Instagram,155,5,4,19,Morning,7,3,Entertainment,9,1,At work,High
+30,Female,United States,35848,False,False,Rural,Instagram,155,5,4,19,Morning,7,3,Entertainment,9,1,At work,Medium
 57,Other,United States,22352,False,True,Rural,YouTube,94,17,6,1,Night,1,9,Entertainment,3,7,At school,Low
 59,Male,Philippines,21932,False,False,Rural,Instagram,109,7,26,29,Night,1,9,Boredom,3,7,At work,Low
 26,Male,India,96449,True,True,Rural,TikTok,113,10,49,87,Evening,5,5,Boredom,7,3,At school,Medium
 44,Male,Brazil,28556,False,False,Rural,Facebook,55,11,39,33,Afternoon,4,6,Habit,6,4,At work,Medium
-19,Other,Germany,25498,False,True,Rural,TikTok,53,3,39,52,Morning,7,3,Entertainment,9,1,At school,High
+19,Other,Germany,25498,False,True,Rural,TikTok,53,3,39,52,Morning,7,3,Entertainment,9,1,At school,Medium
 22,Male,Vietnam,96118,True,True,Rural,YouTube,287,10,9,41,Afternoon,4,6,Entertainment,6,4,At work,Medium
 46,Male,Indonesia,70098,True,True,Rural,TikTok,190,10,45,23,Afternoon,4,6,Entertainment,6,4,At home,Medium
 54,Male,Brazil,84386,True,True,Rural,Facebook,196,14,14,5,Evening,5,5,Procrastination,7,3,At home,Medium
@@ -629,9 +629,9 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 53,Male,Pakistan,45879,False,True,Rural,Instagram,220,9,29,31,Afternoon,4,6,Boredom,6,4,At home,Medium
 23,Male,Brazil,75778,True,False,Rural,TikTok,224,2,31,37,Evening,5,5,Entertainment,7,3,At home,Medium
 48,Male,Pakistan,57772,True,True,Rural,YouTube,49,14,6,45,Afternoon,4,6,Habit,6,4,At home,Medium
-36,Female,Mexico,78478,True,False,Rural,Instagram,35,17,4,90,Morning,7,3,Boredom,9,1,At home,High
+36,Female,Mexico,78478,True,False,Rural,Instagram,35,17,4,90,Morning,7,3,Boredom,9,1,At home,Medium
 61,Female,Brazil,84353,True,True,Urban,YouTube,36,1,43,8,Evening,5,5,Boredom,7,3,At home,Medium
-56,Female,United States,46762,False,False,Rural,TikTok,199,9,29,40,Morning,7,3,Entertainment,9,1,At home,High
+56,Female,United States,46762,False,False,Rural,TikTok,199,9,29,40,Morning,7,3,Entertainment,9,1,At home,Medium
 44,Male,India,33283,False,True,Urban,TikTok,92,19,42,97,Afternoon,4,6,Habit,6,4,At school,Medium
 27,Male,Philippines,83922,True,True,Rural,TikTok,179,4,3,93,Afternoon,4,6,Entertainment,6,4,At home,Medium
 43,Male,United States,59420,True,True,Urban,YouTube,176,8,1,5,Evening,5,5,Habit,7,3,At school,Medium
@@ -668,21 +668,21 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 52,Male,Indonesia,49689,False,False,Rural,TikTok,48,11,29,65,Afternoon,4,6,Entertainment,6,4,At work,Medium
 36,Female,Pakistan,68651,True,True,Urban,Instagram,163,10,45,62,Afternoon,4,6,Habit,6,4,At work,Medium
 37,Male,United States,33893,False,False,Urban,YouTube,185,4,22,56,Night,1,9,Entertainment,3,7,Commuting,Low
-35,Male,Pakistan,86418,True,True,Urban,Instagram,250,5,8,67,Morning,7,3,Entertainment,9,1,At home,High
+35,Male,Pakistan,86418,True,True,Urban,Instagram,250,5,8,67,Morning,7,3,Entertainment,9,1,At home,Medium
 64,Male,Philippines,80011,True,False,Urban,Facebook,143,4,15,17,Night,1,9,Entertainment,3,7,At school,Low
 58,Male,India,58635,True,True,Rural,YouTube,55,13,49,8,Night,1,9,Habit,3,7,At school,Low
-31,Male,Japan,76115,True,False,Rural,YouTube,59,13,5,60,Morning,7,3,Entertainment,9,1,At school,High
+31,Male,Japan,76115,True,False,Rural,YouTube,59,13,5,60,Morning,7,3,Entertainment,9,1,At school,Medium
 32,Male,India,98405,True,True,Rural,YouTube,175,18,4,40,Evening,5,5,Habit,7,3,At work,Medium
 48,Male,Mexico,92702,True,False,Rural,Facebook,115,2,11,81,Night,1,9,Habit,3,7,At work,Low
-18,Male,Japan,98518,True,True,Rural,TikTok,225,16,18,89,Morning,7,3,Procrastination,9,1,At work,High
+18,Male,Japan,98518,True,True,Rural,TikTok,225,16,18,89,Morning,7,3,Procrastination,9,1,At work,Medium
 20,Male,Japan,92805,True,True,Rural,Instagram,155,1,42,62,Night,1,9,Entertainment,3,7,At school,Low
 33,Female,India,78954,True,True,Rural,YouTube,81,19,49,41,Night,1,9,Boredom,3,7,Commuting,Low
-40,Female,India,48064,False,True,Rural,YouTube,282,9,30,12,Morning,7,3,Boredom,9,1,At school,High
+40,Female,India,48064,False,True,Rural,YouTube,282,9,30,12,Morning,7,3,Boredom,9,1,At school,Medium
 28,Male,Vietnam,99063,True,False,Rural,YouTube,256,3,15,93,Afternoon,4,6,Entertainment,6,4,At work,Medium
 29,Other,Philippines,22454,False,True,Urban,TikTok,195,7,6,89,Night,1,9,Habit,3,7,At home,Low
 27,Female,India,40878,False,False,Rural,TikTok,79,10,16,54,Evening,5,5,Habit,7,3,Commuting,Medium
 49,Male,Pakistan,71098,True,True,Rural,Facebook,159,1,47,89,Afternoon,4,6,Habit,6,4,At school,Medium
-33,Male,India,82154,True,False,Rural,TikTok,255,10,40,93,Morning,7,3,Boredom,9,1,At work,High
+33,Male,India,82154,True,False,Rural,TikTok,255,10,40,93,Morning,7,3,Boredom,9,1,At work,Medium
 25,Male,Pakistan,32991,False,True,Urban,Instagram,271,9,9,11,Evening,5,5,Habit,7,3,At school,Medium
 55,Female,Vietnam,88344,True,False,Rural,Facebook,35,15,43,60,Night,1,9,Boredom,3,7,At work,Low
 29,Male,Mexico,56593,True,True,Rural,Facebook,149,15,34,68,Evening,5,5,Habit,7,3,At school,Medium
@@ -690,7 +690,7 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 45,Female,Vietnam,50386,True,True,Rural,Instagram,287,5,13,46,Evening,5,5,Procrastination,7,3,At home,Medium
 25,Female,Germany,75220,True,False,Rural,Instagram,60,9,36,38,Evening,5,5,Boredom,7,3,At home,Medium
 45,Male,Brazil,89338,True,True,Rural,Facebook,160,9,27,61,Night,1,9,Procrastination,3,7,At home,Low
-53,Male,India,41083,False,False,Urban,Facebook,113,7,9,17,Morning,7,3,Boredom,9,1,At work,High
+53,Male,India,41083,False,False,Urban,Facebook,113,7,9,17,Morning,7,3,Boredom,9,1,At work,Medium
 43,Other,Mexico,38354,False,True,Rural,Facebook,98,12,5,66,Night,1,9,Boredom,3,7,At home,Low
 25,Female,Germany,42190,False,False,Rural,Instagram,150,9,22,72,Afternoon,4,6,Entertainment,6,4,At home,Medium
 45,Female,Indonesia,26142,False,True,Rural,Instagram,222,6,31,36,Evening,5,5,Boredom,7,3,At home,Medium
@@ -713,10 +713,10 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 35,Other,Japan,70876,True,True,Rural,Facebook,219,4,32,65,Evening,5,5,Entertainment,7,3,At home,Medium
 22,Male,Brazil,71919,True,False,Rural,Facebook,112,16,31,65,Evening,5,5,Habit,7,3,At work,Medium
 64,Other,Germany,47103,False,True,Rural,Instagram,142,12,23,21,Night,1,9,Entertainment,3,7,At home,Low
-42,Female,India,56188,True,False,Rural,YouTube,148,16,40,30,Morning,7,3,Boredom,9,1,At school,High
+42,Female,India,56188,True,False,Rural,YouTube,148,16,40,30,Morning,7,3,Boredom,9,1,At school,Medium
 19,Male,Philippines,25845,False,True,Rural,Facebook,130,19,33,96,Evening,5,5,Entertainment,7,3,At home,Medium
 27,Female,India,56674,True,False,Rural,Facebook,103,8,25,33,Night,1,9,Habit,3,7,At school,Low
-47,Female,Mexico,39337,False,True,Rural,Instagram,138,6,36,48,Morning,7,3,Procrastination,9,1,At home,High
+47,Female,Mexico,39337,False,True,Rural,Instagram,138,6,36,48,Morning,7,3,Procrastination,9,1,At home,Medium
 62,Female,India,42313,False,True,Rural,TikTok,100,10,24,22,Evening,5,5,Boredom,7,3,At school,Medium
 22,Other,Mexico,46943,False,True,Urban,YouTube,101,5,31,94,Afternoon,4,6,Entertainment,6,4,At home,Medium
 50,Male,India,97949,True,True,Urban,Facebook,72,18,39,54,Evening,5,5,Entertainment,7,3,Commuting,Medium
@@ -731,7 +731,7 @@ Age,Gender,Country,Income,HasDebt,OwnsProperty,Demographics,Platform,MinutesSpen
 39,Male,India,47810,False,False,Rural,Instagram,148,4,28,74,Afternoon,4,6,Boredom,6,4,At work,Medium
 44,Female,Brazil,97842,True,True,Rural,TikTok,183,10,16,99,Evening,5,5,Boredom,7,3,Commuting,Medium
 30,Other,India,30503,False,False,Rural,YouTube,38,9,16,52,Evening,5,5,Entertainment,7,3,At school,Medium
-50,Male,Vietnam,56976,True,True,Rural,Instagram,152,2,18,93,Morning,7,3,Habit,9,1,At home,High
+50,Male,Vietnam,56976,True,True,Rural,Instagram,152,2,18,93,Morning,7,3,Habit,9,1,At home,Medium
 51,Female,India,31590,False,False,Rural,Instagram,51,14,8,76,Night,1,9,Entertainment,3,7,At home,Low
 58,Other,Germany,30886,False,True,Rural,YouTube,217,16,42,65,Evening,5,5,Boredom,7,3,At home,Medium
 52,Male,Pakistan,32866,False,False,Rural,Instagram,201,1,16,65,Afternoon,4,6,Entertainment,6,4,At work,Medium
