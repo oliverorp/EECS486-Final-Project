@@ -19,14 +19,14 @@ efarros@umich.edu
 Ethan Duke
 ethanduk@umich.edu
 
-Adarsh P
+Adarsh Pettappa
 padarsh@umich.edu
 
 Delaney Scofield
 delsco@umich.edu
 
-## Backend Setup
 
+## Backend Setup
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -36,10 +36,16 @@ python backend.py
 ```
 
 
-
 ## Frontend Setup
 ```bash
+// on mac
 brew install node
+
+// on linux systems
+sudo apt update
+sudo apt install nodejs npm
+
+
 node -v
 npm -v
 cd client
@@ -48,9 +54,7 @@ npm start
 ```
 
 
-
 ## Usage
-
 - The React frontend runs on port 3000.
 - The Flask backend runs on port 5000.
 - You must have port 3000 and port 5000 available in order for the servers to run.
