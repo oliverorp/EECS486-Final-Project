@@ -58,5 +58,6 @@ npm start
 - The React frontend runs on port 3000.
 - The Flask backend runs on port 5000.
 - You must have port 3000 and port 5000 available in order for the servers to run.
+- If you are running the servers on a mac and are having issues with port 5000, try System Settings > General > AirDrop & Handoff > Turn off AirPlay Receiver.
 - Have both servers running simulataneously
 - Open `http://localhost:3000` in your browser to access the application.
