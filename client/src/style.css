@@ -1,0 +1,46 @@
+body {
+    background: gainsboro;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 840px;
+    background: #00274c;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.survey {
+    width: 100%;
+    background: #ffffff;
+    padding: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.results {
+    width: 100%;
+    background: #eee;
+    padding: 20px;
+    border-radius: 12px;
+    display: block;
+}
+
+.btn-custom {
+    background-color: #00274c;
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #001f3a;
+    color: white;
+}
