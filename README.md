@@ -28,10 +28,10 @@ delsco@umich.edu
 ## Backend Setup
 
 ```bash
-cd api
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+cd api
 python backend.py
 ```
 
@@ -39,6 +39,9 @@ python backend.py
 
 ## Frontend Setup
 ```bash
+brew install node
+node -v
+npm -v
 cd client
 npm install
 npm start
@@ -50,5 +53,6 @@ npm start
 
 - The React frontend runs on port 3000.
 - The Flask backend runs on port 5000.
+- You must have port 3000 and port 5000 available in order for the servers to run.
 - Have both servers running simulataneously
 - Open `http://localhost:3000` in your browser to access the application.
