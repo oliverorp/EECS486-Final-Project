@@ -31,6 +31,7 @@ delsco@umich.edu
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ## Model Instructions
@@ -40,9 +41,6 @@ source venv/bin/activate
 
 ## Backend Setup (same packages for Model)
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
 cd api
 python backend.py
 ```
