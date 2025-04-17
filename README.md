@@ -25,8 +25,20 @@ padarsh@umich.edu
 Delaney Scofield
 delsco@umich.edu
 
+## Virtual Environment
+- In your project directory:
 
-## Backend Setup
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+## Model Instructions
+- See Jupyter Notebook for data, models
+- Go to Select Kernel, and select venv for this project
+
+
+## Backend Setup (same packages for Model)
 ```bash
 python3 -m venv venv
 source venv/bin/activate
