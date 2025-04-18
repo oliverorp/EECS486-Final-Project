@@ -4,3 +4,4 @@ joblib==1.4.2
 pandas==2.2.3
 scikit_learn==1.5.1
 mord==0.7
+seaborn==0.13.2
