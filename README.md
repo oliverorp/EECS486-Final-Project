@@ -37,6 +37,8 @@ pip install -r requirements.txt
 ## Model Instructions
 - See Jupyter Notebook for data, models
 - Go to Select Kernel, and select venv for this project
+- All files, besides ModelFinal.ipynb represent intermediate steps and exploratory data analysis
+- ModelFinal.ipynb should be looked at for grading
 
 
 ## Backend Setup (same packages for Model)
