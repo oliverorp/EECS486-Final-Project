@@ -1,0 +1,193 @@
+Time,Reason,Activity,Productivity_Loss,Recommendation
+Night,Procrastination,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Procrastination,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Night,Procrastination,Commuting,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Night,Procrastination,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Procrastination,School,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Night,Procrastination,School,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Night,Procrastination,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Procrastination,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Night,Procrastination,Home,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Night,Procrastination,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Procrastination,Work,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Night,Procrastination,Work,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Night,Habit,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Habit,Commuting,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Habit,Commuting,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Habit,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Habit,School,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Habit,School,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Habit,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Habit,Home,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Habit,Home,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Habit,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Habit,Work,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Habit,Work,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Entertainment,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Entertainment,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Night,Entertainment,Commuting,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Entertainment,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Entertainment,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Night,Entertainment,School,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Entertainment,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Entertainment,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Night,Entertainment,Home,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Entertainment,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Entertainment,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Night,Entertainment,Work,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Boredom,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Boredom,Commuting,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Boredom,Commuting,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Boredom,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Boredom,School,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Boredom,School,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Boredom,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Boredom,Home,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Boredom,Home,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Night,Boredom,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Night,Boredom,Work,Medium,Evening scrolling can become a mindless habit. Try replacing screen time with a book or relaxing music before bed.
+Night,Boredom,Work,High,Late-night screen time disrupts sleep and energy. Consider using blue light filters or setting a digital curfew.
+Afternoon,Procrastination,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Procrastination,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Procrastination,Commuting,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Afternoon,Procrastination,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Procrastination,School,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Afternoon,Procrastination,School,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Afternoon,Procrastination,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Procrastination,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Procrastination,Home,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Afternoon,Procrastination,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Procrastination,Work,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Afternoon,Procrastination,Work,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Afternoon,Habit,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Habit,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Habit,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Habit,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Habit,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Habit,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Habit,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Habit,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Habit,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Habit,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Habit,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Habit,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Afternoon,Entertainment,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Entertainment,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Entertainment,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Entertainment,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Entertainment,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Entertainment,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Entertainment,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Entertainment,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Entertainment,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Entertainment,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Entertainment,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Entertainment,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Afternoon,Boredom,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Boredom,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Boredom,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Boredom,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Boredom,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Boredom,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Boredom,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Boredom,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Boredom,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Afternoon,Boredom,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Afternoon,Boredom,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Afternoon,Boredom,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Evening,Procrastination,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Procrastination,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Procrastination,Commuting,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Evening,Procrastination,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Procrastination,School,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Evening,Procrastination,School,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Evening,Procrastination,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Procrastination,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Procrastination,Home,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Evening,Procrastination,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Procrastination,Work,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Evening,Procrastination,Work,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Evening,Habit,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Habit,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Habit,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Habit,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Habit,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Habit,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Habit,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Habit,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Habit,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Habit,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Habit,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Habit,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Evening,Entertainment,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Entertainment,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Entertainment,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Entertainment,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Entertainment,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Entertainment,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Entertainment,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Entertainment,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Entertainment,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Entertainment,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Entertainment,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Entertainment,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Evening,Boredom,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Boredom,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Boredom,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Boredom,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Boredom,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Boredom,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Boredom,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Boredom,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Boredom,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Evening,Boredom,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Evening,Boredom,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Evening,Boredom,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Morning,Procrastination,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Procrastination,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Procrastination,Commuting,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Morning,Procrastination,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Procrastination,School,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Morning,Procrastination,School,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Morning,Procrastination,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Procrastination,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Procrastination,Home,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Morning,Procrastination,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Procrastination,Work,Medium,Social media can delay your focus. Use the Pomodoro technique to balance short breaks with deep work.
+Morning,Procrastination,Work,High,"Using social media to procrastinate often backfires. Tackle small tasks first to build momentum, then reward yourself with a short break."
+Morning,Habit,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Habit,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Habit,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Habit,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Habit,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Habit,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Habit,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Habit,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Habit,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Habit,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Habit,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Habit,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Morning,Entertainment,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Entertainment,Commuting,Medium,"Morning entertainment is fine, but opt for podcasts or audiobooks to stay engaged and sharp."
+Morning,Entertainment,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Entertainment,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Entertainment,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Entertainment,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Entertainment,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Entertainment,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Entertainment,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Entertainment,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Entertainment,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Entertainment,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
+Morning,Boredom,Commuting,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Boredom,Commuting,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Boredom,Commuting,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Boredom,School,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Boredom,School,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Boredom,School,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Boredom,Home,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Boredom,Home,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Boredom,Home,High,Social media is taking a toll on your productivity. Consider tracking your usage and building in alternative activities like short walks or journaling.
+Morning,Boredom,Work,Low,Your current usage pattern seems balanced. Keep being mindful of your habits!
+Morning,Boredom,Work,Medium,Try setting intentional time limits to keep social media use from creeping into your day.
+Morning,Boredom,Work,High,Frequent social media use at work can hurt performance. Try app blockers or scheduled breaks to stay on track.
