@@ -26,11 +26,6 @@ Delaney Scofield
 delsco@umich.edu
 
 
-## Model Instructions
-- See Jupyter Notebook for data, models
-- Go to Select Kernel, and select venv for this project
-- All files, besides ModelFinal.ipynb represent intermediate steps and exploratory data analysis
-- ModelFinal.ipynb should be looked at for grading
 
 ## Virtual Environment
 - In your project directory:
@@ -40,6 +35,11 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Model Instructions
+- See Jupyter Notebook, ModelFinal.ipynb, for final data processing and model
+- Go to Select Kernel, and select venv for this project
+- All files, besides ModelFinal.ipynb represent intermediate steps and exploratory data analysis
 
 
 ## Backend Setup (same packages for Model)
