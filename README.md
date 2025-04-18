@@ -6,6 +6,7 @@ This project predicts productivity loss based on user data, using machine learni
 
 - api : contains backend scripts
 - model: contains jupyter notebook ModelFinal.ipynb, with preprocessing and final model
+- intermediate: stastical analysis, non-final models, recommendation generator, and data files. NOT FOR GRADING.
 - client: contains react code for frontend
 
 ## Contributing
